@@ -164,7 +164,9 @@ public abstract class AbstractXmppClient extends AbstractRosterListener implemen
      */
     @Override
     public void close() {
-        connection.disconnect();
+        if(connection != null) {
+            connection.disconnect();
+        }
     }
 
     public Scanner getScanner() {
