@@ -1,4 +1,4 @@
-= 1. Aplicação de Support Center utilizando protocolo XMPP em Java
+= 1. Aplicação de Support Center utilizando protocolo XMPP em Java (link:https://kinolien.github.io/gitzip/?download=/manoelcampos/sd-xmpp-chat-client/tree/master/3.2-xmpp-support-center[zip])
 
 Este projeto apresenta uma demonstração de uma aplicação de Support Center,
 para atendimento online de usuários de uma empresa utilizando o protocolo XMPP.

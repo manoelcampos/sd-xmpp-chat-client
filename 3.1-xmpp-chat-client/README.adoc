@@ -1,4 +1,4 @@
-= Aplicativo de Mensagens Instantâneas usando Protocolo XMPP em Java
+= Aplicativo de Mensagens Instantâneas usando Protocolo XMPP em Java (link:https://kinolien.github.io/gitzip/?download=/manoelcampos/sd-xmpp-chat-client/tree/master/3.1-xmpp-chat-client[zip])
 
 Projeto disponibiliza uma aplicação de chat que utiliza o protocolo http://xmpp.org[XMPP].
 A rede XMPP possui uma arquitetura cliente/servidor descentralizada para troca de mensagens praticamente em tempo real.
