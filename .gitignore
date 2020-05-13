@@ -20,3 +20,6 @@ hs_err_pid*
 TODO.*
 
 .idea
+
+#MacOS Files
+.DS_Store
